@@ -1,4 +1,4 @@
-# 项目名称（例如：Auto-EraseNet）
+# 项目名称（Auto-EraseNet）
 
 > 基于 GAN 的图像水印擦除模型，支持训练和推理。
 
